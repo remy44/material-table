@@ -62,7 +62,7 @@
     "classnames": "^2.2.6",
     "date-fns": "2.0.0-alpha.16",
     "filefy": "^0.1.2",
-    "material-ui-pickers": "^1.0.0-rc.17",
+    "material-ui-pickers": "^1.0.1",
     "prop-types": "^15.6.2"
   }
 }
